@@ -1,4 +1,4 @@
-# Number Guessing Game
+# Higher or Lower
 
 A simple console-based number guessing game developed in **C# using .NET**. This project was created to strengthen my understanding of C# programming fundamentals and practice building applications independently.
 
